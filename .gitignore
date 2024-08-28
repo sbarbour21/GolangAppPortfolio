@@ -23,3 +23,5 @@ go.work.sum
 
 # env file
 .env
+CRUD API/go.mod
+CRUD API/go.sum
